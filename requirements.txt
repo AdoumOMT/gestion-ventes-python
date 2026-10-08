@@ -1,0 +1,4 @@
+Aucune dépendance externe.
+Le projet utilise uniquement des bibliothèques standard de Python :
+    - tkinter
+    - sqlite3

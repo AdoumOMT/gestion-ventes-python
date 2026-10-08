@@ -1,0 +1,17 @@
+# Base de données locale
+*.db
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
